@@ -37,7 +37,7 @@
 
 ## Overview
 
-![screenshot]
+![screenshot](https://raw.githubusercontent.com/tovarapvp/Interior-Design/main/tablero.png)
 
 
 ### Built With
